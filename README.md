@@ -20,6 +20,7 @@
 
 ##사이트 화면
 ###메인화면
+
 ![image](https://user-images.githubusercontent.com/75982468/204125525-d7370a54-b686-4a13-baa4-13bf5c538a7d.png)
 
 
